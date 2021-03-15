@@ -48,10 +48,10 @@ class ExplorScreen extends StatelessWidget {
                           crossAxisAlignment: CrossAxisAlignment.center,
                           children: [
                             ClipRRect(
-                              borderRadius: BorderRadius.circular(30.0),
+                              borderRadius: BorderRadius.circular(10.0),
                               child: Image.network(
-                                'https://googleflutter.com/sample_image.jpg',
-                                height: 120,
+                                'https://www.lifewire.com/thmb/BQdMoVsHlk8HaZiZ2tv0elBfFO8=/1920x1080/filters:no_upscale():max_bytes(150000):strip_icc()/tropical-beach-wallpaper-beach-backgrounds-587fbb765f9b584db3241860.jpg',
+                                height: 100,
                                 width: 80,
                                 fit: BoxFit.cover,
                               ),
