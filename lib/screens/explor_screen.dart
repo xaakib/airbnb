@@ -42,7 +42,7 @@ class ExplorScreen extends StatelessWidget {
                           color: Colors.white),
                       child: TextButton(
                         onPressed: () {
-                          // Respond to button press
+                          print("Explore nearby stats");
                         },
                         child: Text(
                           "Explore nearby stays",
