@@ -29,7 +29,7 @@ class _MainScreenState extends State<MainScreen> {
       bottomNavigationBar: BottomNavigationBar(
         type: BottomNavigationBarType.fixed,
         backgroundColor: Colors.white,
-        selectedItemColor: Colors.black,
+        selectedItemColor: Colors.red,
         unselectedItemColor: Colors.black.withOpacity(.30),
         selectedFontSize: 14,
         unselectedFontSize: 14,
